@@ -1,0 +1,14 @@
+# Virtual Environment
+.venv/
+venv/
+__pycache__/
+
+final_model.h5
+
+# Temporary Files
+uploads/
+*.pyc
+
+# IDE / Editor specific
+.idea/
+*.DS_Store
