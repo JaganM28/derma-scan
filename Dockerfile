@@ -13,5 +13,4 @@ COPY . .
 RUN git lfs pull
 
 EXPOSE 10000
-
 CMD ["gunicorn", "--bind", "0.0.0.0:10000", "app:app"]
