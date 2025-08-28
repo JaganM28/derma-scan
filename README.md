@@ -10,6 +10,13 @@ DermaScan is an AI-powered web application designed to classify images of skin c
 
 Users can upload an image, and the application provides a prediction with a confidence score, along with detailed information about the predicted condition, including a description, symptoms, recommended actions, and prevention tips.
 
+## Demo Video
+<p align="center">
+  <a href="https://youtu.be/iE5DSq-bQPw" target="_blank">
+    <img src="https://img.youtube.com/vi/iE5DSq-bQPw/0.jpg" alt="Watch the video" width="600">
+  </a>
+</p>
+
 ## Features
 
 - **Image Classification**: Classifies skin condition images into six categories using a fine-tuned ResNet50 model (quantized TensorFlow Lite).
